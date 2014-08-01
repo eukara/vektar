@@ -9,7 +9,7 @@ Vektar Quake is a mod that is designed to be played with more than
 2 players. You can play on all the Multiplayer Deathmatch maps
 of Quake (dm1-dm6).
 You start of with the default Quake loadout, can also pickup
-weapons and ammunition but armors are not existent, your goal
+weapons and ammunition but armor is not existent, your goal
 is to find and destroy a statue called the Vektar. Once destroyed 
 it will drop a unique item - the Vektar-Quad - which you have to pick up
 to get points. But beware, I suggest you do not stand too
